@@ -1,6 +1,8 @@
 streamlit
-opencv-python
-numpy
-deepface
-tensorflow
+opencv-python-headless
+numpy==1.26.4
+tensorflow==2.15.0
+tf-keras
+deepface==0.0.99
 spotipy
+pandas
